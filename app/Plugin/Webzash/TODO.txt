@@ -1,0 +1,24 @@
+TODO :
+- Backup
+- Add Postgres / MS SQL support
+- Full account name in download ledger statements, etc
+- Guide on translations
+- Save logged in user and selected account
+- Correctly order the main groups
+- Pre-write A/C
+- Balance sheet should not have Dr and Cr
+- Store wzuser in MySQL and remove the dependency on sqlite.
+
+Optional :
+- Negative balance highlight
+- Income / Expense should have no opening balance
+- Theme email entries
+- Return to correct URL
+- Cash flow statement
+- Tooltips
+- Optimize
+- Reference/Cheque number, name and date
+- Cheque printing
+- Ledger / Group in downloads
+- Group statement
+- Dr/Cr separate column in reports

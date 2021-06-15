@@ -1,0 +1,35 @@
+[06-Jan-2018 04:16:37] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:21:39] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:22:46] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:22:47] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:22:48] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:22:53] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 221
+[06-Jan-2018 04:24:18] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 223
+[06-Jan-2018 04:24:19] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 223
+[06-Jan-2018 04:24:56] PHP Parse error:  syntax error, unexpected T_STATIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 256
+[06-Jan-2018 04:24:59] PHP Parse error:  syntax error, unexpected T_STATIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 256
+[06-Jan-2018 04:25:22] PHP Parse error:  syntax error, unexpected T_STATIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 256
+[06-Jan-2018 04:35:02] PHP Parse error:  syntax error, unexpected T_PROTECTED in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:37:14] PHP Parse error:  syntax error, unexpected T_PROTECTED in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:37:16] PHP Parse error:  syntax error, unexpected T_PROTECTED in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:37:58] PHP Parse error:  syntax error, unexpected T_PROTECTED in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:42:55] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:45:39] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:45:40] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 222
+[06-Jan-2018 04:46:05] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 224
+[06-Jan-2018 04:46:55] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:26] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:28] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:31] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:33] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:35] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:37] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:42] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:49:50] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 225
+[06-Jan-2018 04:50:46] PHP Parse error:  syntax error, unexpected T_STATIC, expecting T_STRING or T_VARIABLE or '$' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 224
+[06-Jan-2018 04:55:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226
+[06-Jan-2018 04:55:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226
+[06-Jan-2018 04:56:11 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226
+[06-Jan-2018 04:56:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226
+[06-Jan-2018 05:01:48 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226
+[06-Jan-2018 05:02:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/pickleap/public_html/accounting/pickleaccount/lib/Cake/Core/App.php on line 226

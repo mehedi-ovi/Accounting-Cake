@@ -1,0 +1,65 @@
+Webzash version 2.7 - 19 August 2017
+------------------------------------
+
+- Update to CakePHP 2.10.0
+- Added support for PHP 7
+- Add ability to reset admin password
+- Add language support
+- Many bug fixes and enhancements
+
+Webzash version 2.6 - 25 September 2015
+---------------------------------------
+
+- Miscellaneous bug fixes
+
+Webzash version 2.5 - 08 August 2015
+------------------------------------
+
+- Add experimental support for Postgres SQL database
+
+Webzash version 2.4 - 07 August 2015
+------------------------------------
+
+- Add user interface for database update
+- Add custom decimal places
+- Add currency format option
+- Add account code to group and ledger accounts
+- Remove all database triggers
+
+Webzash version 2.3 - 25 January 2015
+-------------------------------------
+
+- Support third party login
+- Support hotkeys
+- Use select2 for selecting ledgers in entires and reports
+- Fix pagination bug
+
+Webzash version 2.2 - 20 December 2014
+--------------------------------------
+
+- Show ledgers and groups in tree format
+- Add support for printing and downloading xml reports
+- Swap assets and liabilities sides in balance sheet
+- Load the application as root url
+- Add system information page
+
+Webzash version 2.1 - 13 December 2014
+--------------------------------------
+
+- User can change the default security salts
+- Fixed issues related to ledger accounts below root groups
+  not being shown on reports page
+- All email settings are optional
+
+- Switched to CakePHP
+
+Webzash version 2.0 - 11 December 2014
+--------------------------------------
+
+- Switched to CakePHP
+- Switched to sqlite3 for master data
+- Add notes to ledger account
+- Use database reference keys and trigger to maintain data integrity
+- All primary id are bigint(64) bit from int(32) bit
+- Add date range to all reports
+- Support large numbers upto 23 places
